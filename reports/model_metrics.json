@@ -1,0 +1,57 @@
+{
+  "dataset_name": "synthetic_model_data.csv",
+  "dataset_type": "Synthetic Demonstration Data (clearly labelled)",
+  "total_samples": 3200,
+  "test_samples": 640,
+  "target_variable": "purchase_intent",
+  "split_ratio": "80% Train / 20% Test (Stratified)",
+  "random_seed": 42,
+  "features": [
+    "session_duration_secs",
+    "pages_viewed",
+    "cart_additions",
+    "past_purchases_count",
+    "avg_historical_spend",
+    "product_price",
+    "discount_offered_pct",
+    "product_rating",
+    "stock_level_ratio",
+    "category_affinity_score",
+    "price_sensitivity_score",
+    "is_loyalty_member"
+  ],
+  "metrics": [
+    {
+      "model": "Logistic Regression",
+      "accuracy": 72.97,
+      "precision": 74.02,
+      "recall": 67.53,
+      "f1_score": 70.63,
+      "roc_auc": 79.34
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 69.53,
+      "precision": 70.55,
+      "recall": 62.99,
+      "f1_score": 66.55,
+      "roc_auc": 76.54
+    },
+    {
+      "model": "XGBoost",
+      "accuracy": 68.59,
+      "precision": 68.9,
+      "recall": 63.31,
+      "f1_score": 65.99,
+      "roc_auc": 76.61
+    },
+    {
+      "model": "Proposed Hybrid AI Model",
+      "accuracy": 70.31,
+      "precision": 70.49,
+      "recall": 65.91,
+      "f1_score": 68.12,
+      "roc_auc": 77.83
+    }
+  ]
+}

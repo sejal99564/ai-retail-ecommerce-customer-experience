@@ -1,0 +1,251 @@
+customer_id,name,email,preferred_category,budget,loyalty_tier,join_date
+C0001,Sai Sharma,sai.sharma1@example.com,Home & Kitchen,1442.0,Bronze,2025-02-28
+C0002,Saanvi Mehta,saanvi.mehta2@example.com,Books & Stationery,33600.0,Platinum,2025-11-13
+C0003,Ayaan Singh,ayaan.singh3@example.com,Home & Kitchen,8196.0,Silver,2024-12-24
+C0004,Siddharth Patel,siddharth.patel4@example.com,Fitness & Sports,4031.0,Silver,2025-04-28
+C0005,Meera Verma,meera.verma5@example.com,Beauty & Personal Care,2250.0,Bronze,2026-08-05
+C0006,Reyansh Reddy,reyansh.reddy6@example.com,Books & Stationery,4590.0,Bronze,2024-09-25
+C0007,Karan Deshmukh,karan.deshmukh7@example.com,Beauty & Personal Care,6097.0,Bronze,2025-03-09
+C0008,Neha Reddy,neha.reddy8@example.com,Home & Kitchen,19914.0,Gold,2025-02-18
+C0009,Siddharth Das,siddharth.das9@example.com,Books & Stationery,9158.0,Silver,2026-07-10
+C0010,Rohan Khan,rohan.khan10@example.com,Electronics,13076.0,Silver,2025-11-04
+C0011,Aarav Gupta,aarav.gupta11@example.com,Home & Kitchen,4402.0,Bronze,2026-01-04
+C0012,Meera Nair,meera.nair12@example.com,Electronics,18024.0,Platinum,2024-11-02
+C0013,Krishna Reddy,krishna.reddy13@example.com,Electronics,21068.0,Gold,2025-06-08
+C0014,Muhammad Patel,muhammad.patel14@example.com,Fashion,3697.0,Bronze,2025-01-21
+C0015,Muhammad Iyer,muhammad.iyer15@example.com,Electronics,4727.0,Bronze,2025-11-09
+C0016,Amit Joshi,amit.joshi16@example.com,Beauty & Personal Care,4043.0,Bronze,2026-04-25
+C0017,Pooja Malhotra,pooja.malhotra17@example.com,Beauty & Personal Care,1463.0,Bronze,2025-08-15
+C0018,Fatima Patel,fatima.patel18@example.com,Fitness & Sports,13654.0,Silver,2026-08-28
+C0019,Aadhya Deshmukh,aadhya.deshmukh19@example.com,Electronics,6979.0,Bronze,2025-01-17
+C0020,Rahul Reddy,rahul.reddy20@example.com,Home & Kitchen,2792.0,Bronze,2025-06-17
+C0021,Arjun Verma,arjun.verma21@example.com,Home & Kitchen,4982.0,Silver,2025-03-12
+C0022,Dhruv Chopra,dhruv.chopra22@example.com,Beauty & Personal Care,5843.0,Bronze,2026-01-17
+C0023,Dhruv Singh,dhruv.singh23@example.com,Fashion,1289.0,Bronze,2024-09-29
+C0024,Saanvi Bose,saanvi.bose24@example.com,Home & Kitchen,4008.0,Bronze,2024-11-28
+C0025,Anushka Gupta,anushka.gupta25@example.com,Electronics,11135.0,Silver,2025-02-24
+C0026,Riya Reddy,riya.reddy26@example.com,Home & Kitchen,20678.0,Gold,2026-05-20
+C0027,Saanvi Patel,saanvi.patel27@example.com,Fitness & Sports,3420.0,Bronze,2025-10-22
+C0028,Ishaan Malhotra,ishaan.malhotra28@example.com,Home & Kitchen,8973.0,Silver,2026-09-13
+C0029,Ananya Gupta,ananya.gupta29@example.com,Fashion,9558.0,Silver,2026-06-20
+C0030,Fatima Joshi,fatima.joshi30@example.com,Home & Kitchen,6152.0,Bronze,2025-05-09
+C0031,Neha Mehta,neha.mehta31@example.com,Home & Kitchen,14070.0,Silver,2025-03-22
+C0032,Kiara Verma,kiara.verma32@example.com,Books & Stationery,3439.0,Bronze,2024-10-02
+C0033,Aditya Nair,aditya.nair33@example.com,Fashion,3758.0,Bronze,2026-02-08
+C0034,Saanvi Patel,saanvi.patel34@example.com,Books & Stationery,41882.0,Platinum,2026-01-04
+C0035,Rahul Nair,rahul.nair35@example.com,Books & Stationery,14519.0,Platinum,2025-10-20
+C0036,Sneha Rao,sneha.rao36@example.com,Home & Kitchen,21322.0,Gold,2026-05-24
+C0037,Pooja Kumar,pooja.kumar37@example.com,Electronics,4133.0,Bronze,2026-07-08
+C0038,Ayaan Mehta,ayaan.mehta38@example.com,Home & Kitchen,5742.0,Bronze,2025-10-15
+C0039,Neha Malhotra,neha.malhotra39@example.com,Electronics,6962.0,Silver,2026-04-25
+C0040,Priyanka Das,priyanka.das40@example.com,Fitness & Sports,4864.0,Bronze,2025-05-19
+C0041,Zara Iyer,zara.iyer41@example.com,Books & Stationery,7570.0,Bronze,2025-11-14
+C0042,Ayaan Kapoor,ayaan.kapoor42@example.com,Fashion,4928.0,Silver,2025-01-13
+C0043,Reyansh Verma,reyansh.verma43@example.com,Beauty & Personal Care,5334.0,Bronze,2025-04-25
+C0044,Krishna Gupta,krishna.gupta44@example.com,Home & Kitchen,8750.0,Gold,2026-02-18
+C0045,Meera Deshmukh,meera.deshmukh45@example.com,Beauty & Personal Care,6328.0,Bronze,2025-01-14
+C0046,Fatima Rao,fatima.rao46@example.com,Fitness & Sports,8222.0,Silver,2025-02-04
+C0047,Pooja Kapoor,pooja.kapoor47@example.com,Electronics,6860.0,Bronze,2025-12-22
+C0048,Neha Sharma,neha.sharma48@example.com,Home & Kitchen,13777.0,Silver,2026-03-08
+C0049,Sai Malhotra,sai.malhotra49@example.com,Electronics,5874.0,Silver,2025-05-09
+C0050,Myra Singh,myra.singh50@example.com,Electronics,5384.0,Bronze,2026-07-01
+C0051,Meera Gupta,meera.gupta51@example.com,Fashion,39480.0,Platinum,2026-05-16
+C0052,Aarav Joshi,aarav.joshi52@example.com,Fitness & Sports,21488.0,Gold,2026-10-11
+C0053,Shaurya Kapoor,shaurya.kapoor53@example.com,Beauty & Personal Care,38295.0,Platinum,2025-02-18
+C0054,Pari Kapoor,pari.kapoor54@example.com,Fitness & Sports,21046.0,Gold,2025-05-23
+C0055,Atharva Kumar,atharva.kumar55@example.com,Electronics,8658.0,Silver,2025-04-22
+C0056,Ishaan Malhotra,ishaan.malhotra56@example.com,Fitness & Sports,11988.0,Gold,2025-02-22
+C0057,Aarav Deshmukh,aarav.deshmukh57@example.com,Electronics,4800.0,Bronze,2025-10-28
+C0058,Sneha Sharma,sneha.sharma58@example.com,Beauty & Personal Care,4440.0,Bronze,2025-08-05
+C0059,Anushka Chopra,anushka.chopra59@example.com,Books & Stationery,1068.0,Bronze,2026-07-01
+C0060,Vihaan Mehta,vihaan.mehta60@example.com,Fitness & Sports,2567.0,Bronze,2026-07-20
+C0061,Reyansh Patel,reyansh.patel61@example.com,Home & Kitchen,3965.0,Bronze,2025-05-20
+C0062,Sneha Patel,sneha.patel62@example.com,Fitness & Sports,5511.0,Bronze,2025-10-19
+C0063,Ayaan Kumar,ayaan.kumar63@example.com,Home & Kitchen,22391.0,Gold,2025-08-07
+C0064,Vikram Malhotra,vikram.malhotra64@example.com,Books & Stationery,1370.0,Bronze,2025-03-06
+C0065,Diya Kapoor,diya.kapoor65@example.com,Fitness & Sports,4937.0,Bronze,2025-06-15
+C0066,Meera Reddy,meera.reddy66@example.com,Fitness & Sports,9784.0,Silver,2025-08-16
+C0067,Atharva Chopra,atharva.chopra67@example.com,Fashion,1452.0,Bronze,2025-08-12
+C0068,Anushka Bose,anushka.bose68@example.com,Fitness & Sports,21308.0,Gold,2026-02-24
+C0069,Rohan Singh,rohan.singh69@example.com,Books & Stationery,5140.0,Bronze,2026-09-23
+C0070,Dhruv Patel,dhruv.patel70@example.com,Electronics,23467.0,Platinum,2025-11-14
+C0071,Vivaan Khan,vivaan.khan71@example.com,Fitness & Sports,24689.0,Gold,2026-05-04
+C0072,Dhruv Khan,dhruv.khan72@example.com,Books & Stationery,2791.0,Bronze,2025-12-06
+C0073,Aarav Patel,aarav.patel73@example.com,Home & Kitchen,7947.0,Bronze,2024-12-28
+C0074,Vihaan Mehta,vihaan.mehta74@example.com,Beauty & Personal Care,7624.0,Gold,2026-04-19
+C0075,Aditya Nair,aditya.nair75@example.com,Beauty & Personal Care,12860.0,Silver,2026-09-02
+C0076,Karan Mehta,karan.mehta76@example.com,Electronics,13268.0,Silver,2026-03-14
+C0077,Sneha Reddy,sneha.reddy77@example.com,Fitness & Sports,23517.0,Gold,2026-03-04
+C0078,Ayaan Khan,ayaan.khan78@example.com,Fitness & Sports,3927.0,Bronze,2025-05-25
+C0079,Vikram Mehta,vikram.mehta79@example.com,Fashion,1709.0,Bronze,2025-08-14
+C0080,Navya Reddy,navya.reddy80@example.com,Beauty & Personal Care,4436.0,Bronze,2025-02-20
+C0081,Muhammad Das,muhammad.das81@example.com,Electronics,24929.0,Gold,2025-05-23
+C0082,Meera Das,meera.das82@example.com,Fashion,7910.0,Silver,2025-12-08
+C0083,Vihaan Singh,vihaan.singh83@example.com,Beauty & Personal Care,3809.0,Bronze,2025-01-28
+C0084,Zara Nair,zara.nair84@example.com,Beauty & Personal Care,3112.0,Bronze,2026-06-10
+C0085,Ananya Reddy,ananya.reddy85@example.com,Books & Stationery,3206.0,Bronze,2026-09-29
+C0086,Siddharth Bose,siddharth.bose86@example.com,Books & Stationery,1564.0,Bronze,2026-08-08
+C0087,Meera Gupta,meera.gupta87@example.com,Electronics,12258.0,Silver,2025-04-08
+C0088,Pooja Mehta,pooja.mehta88@example.com,Beauty & Personal Care,11361.0,Silver,2025-10-26
+C0089,Rohan Malhotra,rohan.malhotra89@example.com,Beauty & Personal Care,19907.0,Gold,2026-06-14
+C0090,Vihaan Malhotra,vihaan.malhotra90@example.com,Beauty & Personal Care,13807.0,Silver,2025-09-26
+C0091,Reyansh Mehta,reyansh.mehta91@example.com,Books & Stationery,7553.0,Bronze,2026-06-21
+C0092,Navya Chatterjee,navya.chatterjee92@example.com,Fashion,8967.0,Silver,2025-04-28
+C0093,Kabir Rao,kabir.rao93@example.com,Beauty & Personal Care,15921.0,Gold,2025-11-07
+C0094,Ishaan Rao,ishaan.rao94@example.com,Beauty & Personal Care,4994.0,Silver,2025-12-27
+C0095,Fatima Joshi,fatima.joshi95@example.com,Fashion,11297.0,Gold,2026-02-26
+C0096,Aadhya Das,aadhya.das96@example.com,Home & Kitchen,11204.0,Silver,2025-06-18
+C0097,Neha Chatterjee,neha.chatterjee97@example.com,Books & Stationery,10286.0,Silver,2026-01-11
+C0098,Atharva Chopra,atharva.chopra98@example.com,Books & Stationery,7709.0,Bronze,2026-08-10
+C0099,Vihaan Khan,vihaan.khan99@example.com,Home & Kitchen,3266.0,Bronze,2026-07-18
+C0100,Siddharth Verma,siddharth.verma100@example.com,Home & Kitchen,3240.0,Bronze,2024-10-06
+C0101,Kiara Verma,kiara.verma101@example.com,Beauty & Personal Care,3437.0,Bronze,2024-11-16
+C0102,Priyanka Chatterjee,priyanka.chatterjee102@example.com,Fitness & Sports,8940.0,Silver,2025-04-26
+C0103,Kavita Gupta,kavita.gupta103@example.com,Beauty & Personal Care,4093.0,Bronze,2026-03-26
+C0104,Karan Patel,karan.patel104@example.com,Books & Stationery,12170.0,Silver,2024-09-30
+C0105,Arjun Deshmukh,arjun.deshmukh105@example.com,Beauty & Personal Care,11743.0,Gold,2025-02-24
+C0106,Ananya Rao,ananya.rao106@example.com,Beauty & Personal Care,2680.0,Bronze,2025-04-12
+C0107,Rahul Mehta,rahul.mehta107@example.com,Fitness & Sports,6480.0,Bronze,2025-11-04
+C0108,Amit Verma,amit.verma108@example.com,Fitness & Sports,20264.0,Gold,2026-03-21
+C0109,Reyansh Das,reyansh.das109@example.com,Home & Kitchen,1370.0,Bronze,2026-08-03
+C0110,Priyanka Khan,priyanka.khan110@example.com,Fitness & Sports,4018.0,Bronze,2024-11-20
+C0111,Kiara Joshi,kiara.joshi111@example.com,Books & Stationery,1718.0,Bronze,2025-10-31
+C0112,Kiara Mehta,kiara.mehta112@example.com,Electronics,5869.0,Bronze,2026-05-14
+C0113,Zara Kumar,zara.kumar113@example.com,Home & Kitchen,19989.0,Gold,2026-02-23
+C0114,Pari Bose,pari.bose114@example.com,Electronics,21555.0,Gold,2025-07-28
+C0115,Arjun Sharma,arjun.sharma115@example.com,Fashion,9562.0,Silver,2026-06-02
+C0116,Tanvi Khan,tanvi.khan116@example.com,Beauty & Personal Care,15337.0,Gold,2024-12-26
+C0117,Arjun Malhotra,arjun.malhotra117@example.com,Books & Stationery,7351.0,Gold,2025-03-11
+C0118,Karan Joshi,karan.joshi118@example.com,Books & Stationery,4347.0,Bronze,2025-04-11
+C0119,Riya Patel,riya.patel119@example.com,Books & Stationery,18939.0,Gold,2025-11-18
+C0120,Anushka Chopra,anushka.chopra120@example.com,Books & Stationery,6704.0,Silver,2025-06-20
+C0121,Rohan Malhotra,rohan.malhotra121@example.com,Home & Kitchen,9524.0,Gold,2025-07-24
+C0122,Pari Deshmukh,pari.deshmukh122@example.com,Home & Kitchen,8704.0,Gold,2025-06-03
+C0123,Kavita Sharma,kavita.sharma123@example.com,Home & Kitchen,5326.0,Bronze,2026-08-12
+C0124,Neha Chopra,neha.chopra124@example.com,Home & Kitchen,6253.0,Bronze,2025-11-30
+C0125,Muhammad Kumar,muhammad.kumar125@example.com,Electronics,6465.0,Bronze,2026-09-14
+C0126,Sai Singh,sai.singh126@example.com,Home & Kitchen,2092.0,Bronze,2025-10-01
+C0127,Neha Kumar,neha.kumar127@example.com,Electronics,10388.0,Gold,2026-02-05
+C0128,Aadhya Deshmukh,aadhya.deshmukh128@example.com,Books & Stationery,18890.0,Gold,2026-06-27
+C0129,Myra Reddy,myra.reddy129@example.com,Home & Kitchen,5679.0,Bronze,2026-07-29
+C0130,Diya Kapoor,diya.kapoor130@example.com,Fashion,5102.0,Silver,2025-07-21
+C0131,Diya Verma,diya.verma131@example.com,Beauty & Personal Care,6513.0,Bronze,2026-06-07
+C0132,Meera Joshi,meera.joshi132@example.com,Beauty & Personal Care,2959.0,Bronze,2024-11-03
+C0133,Aarav Nair,aarav.nair133@example.com,Books & Stationery,7925.0,Bronze,2025-07-26
+C0134,Diya Gupta,diya.gupta134@example.com,Home & Kitchen,4018.0,Bronze,2026-01-22
+C0135,Rohan Malhotra,rohan.malhotra135@example.com,Home & Kitchen,32210.0,Platinum,2025-07-18
+C0136,Meera Malhotra,meera.malhotra136@example.com,Beauty & Personal Care,2922.0,Bronze,2026-09-29
+C0137,Sai Patel,sai.patel137@example.com,Home & Kitchen,4817.0,Silver,2024-10-08
+C0138,Krishna Malhotra,krishna.malhotra138@example.com,Beauty & Personal Care,8017.0,Silver,2025-10-10
+C0139,Anushka Khan,anushka.khan139@example.com,Fitness & Sports,4163.0,Bronze,2025-02-21
+C0140,Krishna Das,krishna.das140@example.com,Books & Stationery,14143.0,Platinum,2026-08-14
+C0141,Aditya Chopra,aditya.chopra141@example.com,Electronics,21102.0,Platinum,2025-10-07
+C0142,Aditya Iyer,aditya.iyer142@example.com,Books & Stationery,5632.0,Bronze,2025-10-04
+C0143,Ananya Singh,ananya.singh143@example.com,Electronics,8294.0,Silver,2024-10-24
+C0144,Neha Das,neha.das144@example.com,Fitness & Sports,1959.0,Bronze,2025-08-02
+C0145,Krishna Mehta,krishna.mehta145@example.com,Books & Stationery,4704.0,Bronze,2025-10-17
+C0146,Shaurya Das,shaurya.das146@example.com,Beauty & Personal Care,6614.0,Bronze,2026-03-25
+C0147,Shaurya Nair,shaurya.nair147@example.com,Fashion,14445.0,Silver,2026-02-03
+C0148,Ananya Joshi,ananya.joshi148@example.com,Books & Stationery,9540.0,Silver,2025-09-11
+C0149,Muhammad Rao,muhammad.rao149@example.com,Beauty & Personal Care,6918.0,Bronze,2025-11-13
+C0150,Vikram Mehta,vikram.mehta150@example.com,Books & Stationery,2848.0,Bronze,2026-09-30
+C0151,Pooja Iyer,pooja.iyer151@example.com,Electronics,13546.0,Gold,2025-01-18
+C0152,Dhruv Mehta,dhruv.mehta152@example.com,Beauty & Personal Care,871.0,Bronze,2024-11-25
+C0153,Atharva Rao,atharva.rao153@example.com,Electronics,4708.0,Bronze,2026-07-01
+C0154,Saanvi Patel,saanvi.patel154@example.com,Electronics,6626.0,Silver,2025-08-16
+C0155,Riya Kapoor,riya.kapoor155@example.com,Fashion,22417.0,Platinum,2026-07-25
+C0156,Siddharth Nair,siddharth.nair156@example.com,Beauty & Personal Care,5595.0,Bronze,2025-05-17
+C0157,Sai Joshi,sai.joshi157@example.com,Books & Stationery,4426.0,Silver,2026-03-14
+C0158,Priyanka Joshi,priyanka.joshi158@example.com,Beauty & Personal Care,11389.0,Gold,2025-05-27
+C0159,Muhammad Deshmukh,muhammad.deshmukh159@example.com,Fashion,6058.0,Bronze,2025-04-05
+C0160,Riya Nair,riya.nair160@example.com,Fashion,14265.0,Silver,2025-03-04
+C0161,Amit Kapoor,amit.kapoor161@example.com,Beauty & Personal Care,3108.0,Bronze,2026-07-26
+C0162,Fatima Khan,fatima.khan162@example.com,Books & Stationery,10375.0,Silver,2024-11-10
+C0163,Diya Verma,diya.verma163@example.com,Home & Kitchen,14701.0,Silver,2026-04-22
+C0164,Meera Sharma,meera.sharma164@example.com,Fitness & Sports,5837.0,Silver,2026-09-18
+C0165,Siddharth Reddy,siddharth.reddy165@example.com,Electronics,1817.0,Bronze,2025-08-15
+C0166,Meera Patel,meera.patel166@example.com,Home & Kitchen,16842.0,Gold,2026-01-04
+C0167,Myra Deshmukh,myra.deshmukh167@example.com,Electronics,3031.0,Bronze,2025-01-16
+C0168,Sai Chopra,sai.chopra168@example.com,Fitness & Sports,4112.0,Bronze,2025-02-01
+C0169,Pari Das,pari.das169@example.com,Electronics,7735.0,Bronze,2026-02-14
+C0170,Zara Chopra,zara.chopra170@example.com,Fitness & Sports,5432.0,Silver,2024-10-13
+C0171,Ayaan Reddy,ayaan.reddy171@example.com,Fashion,10617.0,Silver,2026-03-06
+C0172,Fatima Gupta,fatima.gupta172@example.com,Fitness & Sports,5277.0,Bronze,2025-09-15
+C0173,Rahul Chopra,rahul.chopra173@example.com,Fashion,13866.0,Silver,2026-04-02
+C0174,Neha Sharma,neha.sharma174@example.com,Electronics,7937.0,Bronze,2024-10-26
+C0175,Aadhya Reddy,aadhya.reddy175@example.com,Fashion,5168.0,Silver,2026-06-12
+C0176,Priyanka Deshmukh,priyanka.deshmukh176@example.com,Home & Kitchen,4638.0,Bronze,2026-09-12
+C0177,Kiara Bose,kiara.bose177@example.com,Fashion,6585.0,Silver,2025-11-15
+C0178,Rohan Reddy,rohan.reddy178@example.com,Fitness & Sports,7779.0,Bronze,2024-09-12
+C0179,Vikram Gupta,vikram.gupta179@example.com,Home & Kitchen,17000.0,Platinum,2024-11-29
+C0180,Reyansh Chopra,reyansh.chopra180@example.com,Fitness & Sports,1454.0,Bronze,2025-03-19
+C0181,Tanvi Nair,tanvi.nair181@example.com,Beauty & Personal Care,6888.0,Bronze,2024-11-30
+C0182,Ananya Chopra,ananya.chopra182@example.com,Books & Stationery,2408.0,Bronze,2024-11-28
+C0183,Atharva Kumar,atharva.kumar183@example.com,Beauty & Personal Care,9087.0,Gold,2025-09-12
+C0184,Aditya Mehta,aditya.mehta184@example.com,Fashion,15451.0,Gold,2026-02-15
+C0185,Tanvi Patel,tanvi.patel185@example.com,Fashion,959.0,Bronze,2025-03-01
+C0186,Navya Khan,navya.khan186@example.com,Books & Stationery,7027.0,Silver,2025-05-25
+C0187,Fatima Chatterjee,fatima.chatterjee187@example.com,Fashion,14383.0,Gold,2026-01-02
+C0188,Ananya Kumar,ananya.kumar188@example.com,Home & Kitchen,13635.0,Silver,2026-08-05
+C0189,Aarav Singh,aarav.singh189@example.com,Fashion,11839.0,Silver,2025-03-20
+C0190,Dhruv Gupta,dhruv.gupta190@example.com,Home & Kitchen,3535.0,Bronze,2026-03-28
+C0191,Kavita Bose,kavita.bose191@example.com,Beauty & Personal Care,838.0,Bronze,2024-10-25
+C0192,Neha Mehta,neha.mehta192@example.com,Beauty & Personal Care,24059.0,Gold,2026-04-14
+C0193,Pooja Kumar,pooja.kumar193@example.com,Fashion,7574.0,Gold,2026-07-14
+C0194,Kavita Malhotra,kavita.malhotra194@example.com,Fitness & Sports,3811.0,Silver,2025-01-15
+C0195,Kiara Bose,kiara.bose195@example.com,Fitness & Sports,7221.0,Bronze,2026-06-20
+C0196,Karan Das,karan.das196@example.com,Fitness & Sports,6176.0,Bronze,2026-05-31
+C0197,Rohan Gupta,rohan.gupta197@example.com,Home & Kitchen,7406.0,Silver,2025-07-12
+C0198,Vikram Bose,vikram.bose198@example.com,Electronics,19958.0,Gold,2024-12-12
+C0199,Ananya Joshi,ananya.joshi199@example.com,Fitness & Sports,7806.0,Gold,2026-05-18
+C0200,Sneha Mehta,sneha.mehta200@example.com,Electronics,12049.0,Gold,2026-02-20
+C0201,Rohan Patel,rohan.patel201@example.com,Home & Kitchen,14976.0,Silver,2025-02-25
+C0202,Aadhya Mehta,aadhya.mehta202@example.com,Electronics,3107.0,Bronze,2024-09-28
+C0203,Myra Nair,myra.nair203@example.com,Fitness & Sports,4395.0,Bronze,2025-09-26
+C0204,Reyansh Kumar,reyansh.kumar204@example.com,Books & Stationery,14806.0,Gold,2026-06-28
+C0205,Dhruv Rao,dhruv.rao205@example.com,Home & Kitchen,14212.0,Silver,2026-10-06
+C0206,Krishna Reddy,krishna.reddy206@example.com,Beauty & Personal Care,2054.0,Bronze,2026-04-23
+C0207,Navya Das,navya.das207@example.com,Electronics,2810.0,Bronze,2026-07-07
+C0208,Siddharth Bose,siddharth.bose208@example.com,Fashion,3215.0,Silver,2025-05-13
+C0209,Vihaan Reddy,vihaan.reddy209@example.com,Fashion,7779.0,Bronze,2026-07-15
+C0210,Fatima Khan,fatima.khan210@example.com,Home & Kitchen,2935.0,Bronze,2025-09-22
+C0211,Vivaan Khan,vivaan.khan211@example.com,Fashion,14130.0,Silver,2025-04-30
+C0212,Vikram Sharma,vikram.sharma212@example.com,Electronics,12194.0,Silver,2025-07-26
+C0213,Pari Rao,pari.rao213@example.com,Fashion,8004.0,Silver,2026-05-16
+C0214,Siddharth Malhotra,siddharth.malhotra214@example.com,Fitness & Sports,7023.0,Bronze,2025-02-04
+C0215,Dhruv Chatterjee,dhruv.chatterjee215@example.com,Books & Stationery,3301.0,Silver,2025-04-14
+C0216,Saanvi Das,saanvi.das216@example.com,Fashion,1407.0,Bronze,2025-03-26
+C0217,Vivaan Rao,vivaan.rao217@example.com,Electronics,6746.0,Bronze,2026-07-08
+C0218,Zara Gupta,zara.gupta218@example.com,Fashion,8206.0,Silver,2026-07-13
+C0219,Ayaan Deshmukh,ayaan.deshmukh219@example.com,Fitness & Sports,9807.0,Silver,2024-11-01
+C0220,Vivaan Rao,vivaan.rao220@example.com,Fitness & Sports,8455.0,Gold,2025-12-14
+C0221,Rahul Sharma,rahul.sharma221@example.com,Beauty & Personal Care,14677.0,Silver,2026-02-27
+C0222,Meera Kumar,meera.kumar222@example.com,Fashion,4586.0,Silver,2025-10-05
+C0223,Shaurya Verma,shaurya.verma223@example.com,Electronics,4460.0,Bronze,2025-05-24
+C0224,Fatima Nair,fatima.nair224@example.com,Books & Stationery,3058.0,Bronze,2024-10-11
+C0225,Pooja Nair,pooja.nair225@example.com,Electronics,4551.0,Bronze,2026-03-10
+C0226,Fatima Joshi,fatima.joshi226@example.com,Fashion,7714.0,Bronze,2024-11-03
+C0227,Diya Patel,diya.patel227@example.com,Fashion,28472.0,Platinum,2026-09-27
+C0228,Vivaan Malhotra,vivaan.malhotra228@example.com,Beauty & Personal Care,5097.0,Bronze,2025-08-15
+C0229,Riya Mehta,riya.mehta229@example.com,Home & Kitchen,9667.0,Gold,2025-06-15
+C0230,Arjun Verma,arjun.verma230@example.com,Beauty & Personal Care,13089.0,Silver,2026-07-27
+C0231,Ananya Reddy,ananya.reddy231@example.com,Beauty & Personal Care,20019.0,Gold,2026-06-30
+C0232,Tanvi Kumar,tanvi.kumar232@example.com,Books & Stationery,11985.0,Silver,2025-11-28
+C0233,Ayaan Chatterjee,ayaan.chatterjee233@example.com,Home & Kitchen,3078.0,Silver,2024-10-03
+C0234,Sai Khan,sai.khan234@example.com,Books & Stationery,4991.0,Silver,2025-07-15
+C0235,Pooja Joshi,pooja.joshi235@example.com,Electronics,2106.0,Bronze,2024-10-28
+C0236,Ishaan Deshmukh,ishaan.deshmukh236@example.com,Fitness & Sports,11859.0,Silver,2025-02-04
+C0237,Sai Gupta,sai.gupta237@example.com,Electronics,3910.0,Bronze,2025-10-22
+C0238,Muhammad Khan,muhammad.khan238@example.com,Beauty & Personal Care,5366.0,Bronze,2025-02-19
+C0239,Pari Khan,pari.khan239@example.com,Home & Kitchen,13163.0,Silver,2026-10-03
+C0240,Fatima Rao,fatima.rao240@example.com,Home & Kitchen,5577.0,Bronze,2026-07-24
+C0241,Atharva Patel,atharva.patel241@example.com,Fitness & Sports,21501.0,Platinum,2025-01-16
+C0242,Ananya Singh,ananya.singh242@example.com,Home & Kitchen,20266.0,Platinum,2025-02-10
+C0243,Pari Deshmukh,pari.deshmukh243@example.com,Beauty & Personal Care,15334.0,Gold,2026-04-20
+C0244,Rahul Verma,rahul.verma244@example.com,Electronics,3206.0,Bronze,2025-09-03
+C0245,Siddharth Das,siddharth.das245@example.com,Home & Kitchen,6309.0,Bronze,2025-07-07
+C0246,Anushka Patel,anushka.patel246@example.com,Fitness & Sports,23798.0,Gold,2024-12-17
+C0247,Myra Sharma,myra.sharma247@example.com,Fashion,6224.0,Bronze,2025-07-09
+C0248,Sneha Singh,sneha.singh248@example.com,Fashion,21565.0,Platinum,2025-12-03
+C0249,Anushka Bose,anushka.bose249@example.com,Home & Kitchen,15923.0,Platinum,2026-01-01
+C0250,Krishna Das,krishna.das250@example.com,Books & Stationery,23676.0,Gold,2025-11-23

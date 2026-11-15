@@ -1,0 +1,30 @@
+{
+  "Random Forest": {
+    "session_duration_secs": 0.0967,
+    "pages_viewed": 0.0496,
+    "cart_additions": 0.2265,
+    "past_purchases_count": 0.0329,
+    "avg_historical_spend": 0.0758,
+    "product_price": 0.1576,
+    "discount_offered_pct": 0.0449,
+    "product_rating": 0.0612,
+    "stock_level_ratio": 0.0673,
+    "category_affinity_score": 0.0858,
+    "price_sensitivity_score": 0.0816,
+    "is_loyalty_member": 0.0202
+  },
+  "XGBoost": {
+    "session_duration_secs": 0.0552,
+    "pages_viewed": 0.0672,
+    "cart_additions": 0.3522,
+    "past_purchases_count": 0.038,
+    "avg_historical_spend": 0.0437,
+    "product_price": 0.0864,
+    "discount_offered_pct": 0.0702,
+    "product_rating": 0.0497,
+    "stock_level_ratio": 0.0448,
+    "category_affinity_score": 0.0578,
+    "price_sensitivity_score": 0.0537,
+    "is_loyalty_member": 0.0812
+  }
+}
